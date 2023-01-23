@@ -1,0 +1,2 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/test_pwm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_pwm'

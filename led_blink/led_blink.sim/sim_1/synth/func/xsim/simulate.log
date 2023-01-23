@@ -1,0 +1,31 @@
+Time resolution is 1 ps
+Failure: FIN DE SIMULATION
+Time: 16 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 16 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 32 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 32 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 48 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 48 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 64 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 64 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 80 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 80 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 96 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 96 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 112 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 112 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 128 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 128 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 144 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 144 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88
+Failure: FIN DE SIMULATION
+Time: 160 ns  Iteration: 0  Process: /test_imp/P_TEST  File: /home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd
+$finish called at time : 160 ns : File "/home/rdj3208a/Bureau/vhdl-m2/led_blink/src/sim_pulse_base.vhd" Line 88

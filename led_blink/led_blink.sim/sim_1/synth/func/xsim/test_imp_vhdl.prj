@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"test_imp_func_synth.vhd" \
+"../../../../../src/sim_pulse_base.vhd" \
+
+# Do not sort compile order
+nosort
